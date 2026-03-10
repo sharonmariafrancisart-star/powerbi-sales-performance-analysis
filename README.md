@@ -40,5 +40,10 @@ This project analyzes four years of sales data (2015–2018) to identify revenue
 ---
 
 🔹 Dashboard Preview
-Dashboard Overview: Screenshot (1686).png
-Executive Insights: Screenshot (1688).png
+## Dashboard Overview
+
+![Dashboard Overview](Screenshot%20(1686).png)
+
+## Executive Insights
+
+![Executive Insights](Screenshot%20(1688).png)
